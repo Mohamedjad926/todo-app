@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 This project is a starting point for a Flutter application.
-<img src="gif/todo.gif" style="width: 300px; border-radius: 15px;">
+<img src="todo.gif" style="width: 300px; border-radius: 15px;">
 
 A few resources to get you started if this is your first Flutter project:
 
